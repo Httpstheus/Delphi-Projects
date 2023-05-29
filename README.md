@@ -8,7 +8,7 @@
 ```
 https://www.embarcadero.com/products/delphi/starter
 ```
-
+Você terá que fazer um cadastro, após isso, ```chegará um TOKEN de ativação no seu e-mail```, para você conseguir fazer a instalação
 ```
 Na configuração, você precisa selecionar Windows e Android.
 ```
