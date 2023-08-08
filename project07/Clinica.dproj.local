@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/08/08 19:48:40.000.420,=C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/08/08 19:49:41.000.102,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\UnitPrincipal.dfm</Transaction>
+    <Transaction>2023/08/08 19:49:41.000.102,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\UnitPrincipal.pas</Transaction>
+    <Transaction>2023/08/08 19:49:51.000.546,C:\Users\Usuário\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\Clinica.dproj</Transaction>
+    <Transaction>2023/08/08 20:30:22.707,=C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\Unit2.pas</Transaction>
+    <Transaction>2023/08/08 20:30:35.587,C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\UnitCadastroPacientes.pas=C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\Unit2.pas</Transaction>
+    <Transaction>2023/08/08 20:30:35.587,C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\UnitCadastroPacientes.dfm=C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\Unit2.dfm</Transaction>
+    <Transaction>2023/08/08 20:30:50.308,=C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\Unit3.pas</Transaction>
+    <Transaction>2023/08/08 20:31:09.957,C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\UnitCadastroAgendamento.pas=C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\Unit3.pas</Transaction>
+    <Transaction>2023/08/08 20:31:09.957,C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\UnitCadastroAgendamento.dfm=C:\Users\Usuário\Desktop\Estudo-Web\Delphi\project07\Unit3.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
